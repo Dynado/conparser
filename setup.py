@@ -9,7 +9,7 @@ setup(
     author="Kamil Bar <nevehanter@gmail.com>",
     license="BSD",
 
-    packages=['cimporter'],
+    packages=['conparser'],
 
     install_requires=[
         'chardet'
